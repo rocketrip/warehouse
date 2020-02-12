@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9037289e-04a9-4536-a9ad-523ff5e6ff0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2OkCKUnpraunfor0BfpOMxrMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="S3_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Salesforce_Connector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S3_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SF_S3_Snowflake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Salesforce_Connector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SF_S3_Snowflake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SF_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Salesforce_Connector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SF_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Salesforce_Connector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Salesforce_Connector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.SF_S3_Snowflake" />
+        <item itemvalue="Python.SF_client" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.S3_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9037289e-04a9-4536-a9ad-523ff5e6ff0b" name="Default Changelist" comment="" />
+      <created>1580240863741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580240863741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581352702269">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1581352702269" />
+    <state x="652" y="368" width="916" height="539" key="#xdebugger.evaluate" timestamp="1581011995271">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="457" y="291" width="916" height="539" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1580493059987" />
+    <state x="652" y="368" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1581011995271" />
+    <state width="1771" height="478" key="GridCell.Tab.0.bottom" timestamp="1581352718400">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580498784419" />
+    <state width="1771" height="478" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718400" />
+    <state width="1771" height="440" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203505" />
+    <state width="1771" height="478" key="GridCell.Tab.0.center" timestamp="1581352718399">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580498784416" />
+    <state width="1771" height="478" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718399" />
+    <state width="1771" height="440" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203503" />
+    <state width="1771" height="478" key="GridCell.Tab.0.left" timestamp="1581352718398">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580498784414" />
+    <state width="1771" height="265" key="GridCell.Tab.0.left/0.0.1792.1040@0.0.1792.1120" timestamp="1580841906240" />
+    <state width="1771" height="478" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718398" />
+    <state width="1771" height="440" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203502" />
+    <state width="1771" height="478" key="GridCell.Tab.0.right" timestamp="1581352718400">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580498784417" />
+    <state width="1771" height="478" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718400" />
+    <state width="1771" height="440" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203504" />
+    <state width="1771" height="478" key="GridCell.Tab.1.bottom" timestamp="1581352718403">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580498784314" />
+    <state width="1771" height="478" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718403" />
+    <state width="1419" height="251" key="GridCell.Tab.1.bottom/0.23.1440.783@0.23.1440.783" timestamp="1580314938680" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.788@0.23.1440.788" timestamp="1580486577710" />
+    <state width="1771" height="440" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203507" />
+    <state width="1771" height="478" key="GridCell.Tab.1.center" timestamp="1581352718402">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580498784313" />
+    <state width="1771" height="478" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718402" />
+    <state width="1419" height="251" key="GridCell.Tab.1.center/0.23.1440.783@0.23.1440.783" timestamp="1580314938678" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.788@0.23.1440.788" timestamp="1580486577708" />
+    <state width="1771" height="440" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203506" />
+    <state width="1771" height="478" key="GridCell.Tab.1.left" timestamp="1581352718401">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580498784313" />
+    <state width="1771" height="478" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718401" />
+    <state width="1419" height="251" key="GridCell.Tab.1.left/0.23.1440.783@0.23.1440.783" timestamp="1580314938676" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.788@0.23.1440.788" timestamp="1580486577706" />
+    <state width="1771" height="440" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203505" />
+    <state width="1771" height="478" key="GridCell.Tab.1.right" timestamp="1581352718403">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580498784314" />
+    <state width="1771" height="478" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581352718403" />
+    <state width="1419" height="251" key="GridCell.Tab.1.right/0.23.1440.783@0.23.1440.783" timestamp="1580314938679" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.788@0.23.1440.788" timestamp="1580486577709" />
+    <state width="1771" height="440" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1580754203506" />
+    <state x="388" y="222" key="SettingsEditor" timestamp="1581352666689">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="312" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580328354702" />
+    <state x="388" y="222" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1581352666689" />
+    <state x="388" y="225" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1580762100657" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1581000725885">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1580251425076" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1581000725885" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580767614535">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580767614535" />
+    <state x="451" y="303" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581017873009">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="451" y="303" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1792.1120@0.0.1792.1120" timestamp="1581017873009" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SF_S3_Snowflake.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SF_S3_Snowflake.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SF_S3_Snowflake.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
